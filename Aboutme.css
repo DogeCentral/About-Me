@@ -54,7 +54,7 @@ h2 {
 }
 
 img{
-    max-width: 100%;
-    height: auto;
-    width: auto\9; 
+    max-width: 300px;
+    height: 100%;
+    width: 100%; 
 }
